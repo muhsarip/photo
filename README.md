@@ -1,4 +1,4 @@
-# CBuilder
+# Photo
 
 [![N|Solid](http://kodefresh.com/backpack/public/assets/img/favicon.png)](http://kodefresh.com)
 
